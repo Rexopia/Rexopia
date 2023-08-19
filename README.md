@@ -9,13 +9,13 @@
 
 🧠 **Research Interests:**
 
-- **Knowledge and Topology Mapping in Large Language Models (LLMs):**<br>
+- **Knowledge and Topology Mapping in Large Language Models (LLMs):**
   Investigating how LLMs store knowledge and its topological relationships, exploring the underlying mechanisms.
 
-- **Information Extraction through LLMs:**<br>
+- **Information Extraction through LLMs:**
   Analyzing reverse and directional extraction of information using LLM compression and learning techniques. Delving into methods to uncover hidden patterns and representations.
 
-- **Understanding and Enhancing LLM's Inferencing Abilities:**<br>
+- **Understanding and Enhancing LLM's Inferencing Abilities:**
   A dual focus on unraveling why LLMs possess inferencing capabilities and how to further improve and exploit these abilities.
 <br>
 
