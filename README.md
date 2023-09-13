@@ -1,7 +1,7 @@
 👋 Hi, I'm @Rexopia
 
 🚀 **Projects:**
-- **[🤗 HawkLM-demo](https://huggingface.co/Rexopia/HawkLM-demo):** A 316M parameter pre-trained model, trained on Redpajama-1T dataset. Utilizing 3.3 billion pure English tokens, excluding content related to arXiv and GitHub.
+- **[🤗 HawkLM-demo](https://huggingface.co/Rexopia/HawkLM-demo):** A 316M parameter pre-trained model, trained on Redpajama-1T dataset. Utilizing 3.3 billion English ONLY tokens, excluding content related to arXiv and GitHub.
 - **[🤗 HawkLM-Chat-demo](https://huggingface.co/Rexopia/HawkLM-Chat-demo):** An instruct fine-tuned model based on HawkLM-demo. Leveraged OpenOrca dataset to grant the model preliminary conversational abilities.
 
 🧠 **Research Interests:**
